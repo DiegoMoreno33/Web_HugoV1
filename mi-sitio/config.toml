@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Diego Moreno Ostoa'
+theme = "paper"
+disqusShortname = 'Diego' 
+[params]
+  disableHLJS = true 
+ github = 'DiegoMoreno33'
+ twitter = 'YOUR_TWITTER_ID'
+ instagram = 'YOUR_INSTAGRAM_ID'
