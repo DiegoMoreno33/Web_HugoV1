@@ -2,7 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Diego Moreno Ostoa'
 theme = "paper"
-disqusShortname = 'Diego' 
 [params]
   disableHLJS = true 
  github = 'DiegoMoreno33'
